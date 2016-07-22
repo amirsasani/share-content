@@ -1,4 +1,4 @@
-# Share count
+# Share Content
 #### Share web contents with PHP
 just import the class and use the __static__ functions:  
 1. **Facebook**: It just need one argument and that is `url` of your web page.  
